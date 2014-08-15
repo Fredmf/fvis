@@ -13,6 +13,29 @@ works nicely
 
 you’ll need to provide the GLFW Lib yourself
 
+
+
+
+RAW Avi
+
+![alt tag](https://raw.githubusercontent.com/Fredmf/fvis/master/raw.png)
+
+
+german text (faust)
+
+![alt tag](https://raw.githubusercontent.com/Fredmf/fvis/master/txt.png)
+
+
+zipped textfile
+
+![alt tag](https://raw.githubusercontent.com/Fredmf/fvis/master/txtzip.png)
+
+
+WAV
+
+![alt tag](https://raw.githubusercontent.com/Fredmf/fvis/master/wav.png)
+
+
 MP3
 
 ![alt tag](https://raw.githubusercontent.com/Fredmf/fvis/master/mp3.png)
