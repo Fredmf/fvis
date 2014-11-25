@@ -3,7 +3,7 @@ fvis
 
 visualize any File
 
-
+(no further development, just a weekend project)
 
 Tried to reproduce the tool from „Chris Domas: The 1s and 0s behind
 cyber warfare“
