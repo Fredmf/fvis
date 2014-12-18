@@ -1,17 +1,15 @@
 fvis
 ====
-
 visualize any File
 
-(no further development, just a weekend project)
+-cmake
+-glut
+
+[![WTFPL](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png)](http://www.wtfpl.net/)
 
 Tried to reproduce the tool from „Chris Domas: The 1s and 0s behind
 cyber warfare“
 https://www.youtube.com/watch?v=cWpRxyqDgpM
-
-works nicely
-
-you’ll need to provide the GLFW Lib yourself
 
 
 RAW Avi
