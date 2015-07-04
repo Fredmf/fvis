@@ -11,6 +11,7 @@ Tried to reproduce the tool from „Chris Domas: The 1s and 0s behind
 cyber warfare“
 https://www.youtube.com/watch?v=cWpRxyqDgpM
 
+(comment: dot get to much into the bulshit from the video, in general you can lookup quickly if a file is compressed or not, maybe there could be an application with machiene learning in order to gain more information, but this blowing up an cellphone... -_-)
 
 RAW Avi
 
